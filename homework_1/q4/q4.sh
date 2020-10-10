@@ -60,3 +60,4 @@ cd -
 git add insidefolder4
 
 git commit -m "last saving"
+git graph
